@@ -1,0 +1,18 @@
+:root {
+  --blue: #0094b0;
+  --pink-dark: #db75c9;
+  --pink: #e1a3d6;
+  --yellow: #f3a801;
+  --green: #01c086;
+  --black: #000;
+  --white: #fff;
+  --grey-dark: #696969;
+  --grey: #808080;
+  --grey-light: #a9a9a9;
+}
+
+.container {
+  min-height: 60vh;
+  margin-top: 1em;
+  margin-bottom: 5em;
+}

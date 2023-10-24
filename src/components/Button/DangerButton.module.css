@@ -1,0 +1,16 @@
+.formButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: max-content;
+    height: fit-content;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1em;
+    color:black;
+    background-color: var(--pink-dark);
+    padding: .4em;
+    border-radius: 10px;
+    font-weight:bolder;
+    margin-top: 1em;
+}
